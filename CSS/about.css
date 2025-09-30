@@ -1,0 +1,13 @@
+.introduction{
+    width: 95vw;
+    font-size: 27px;
+    margin: 20px;
+    background-color: rgba(129, 95, 65, 0.587);
+}
+.introduction .para, .introduction h1,  .heading{
+    margin: 20px;
+    padding: 10px;
+}
+.content{
+    display: block;
+}

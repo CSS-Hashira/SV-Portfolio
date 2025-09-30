@@ -1,6 +1,6 @@
 .introduction{
     width: 95vw;
-    font-size: 27px;
+    font-size: 20px;
     margin: 20px;
     background-color: rgba(129, 95, 65, 0.587);
 }
@@ -10,4 +10,5 @@
 }
 .content{
     display: block;
+
 }

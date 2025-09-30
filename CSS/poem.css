@@ -55,7 +55,7 @@ background: linear-gradient(67deg, rgba(53, 77, 53, 1) 13%, rgba(135, 171, 133, 
     .heading {
       text-align: center;
       padding: 10px;
-      font-size: 25px;
+    
     }
 
     .content {
@@ -74,4 +74,5 @@ background: linear-gradient(67deg, rgba(53, 77, 53, 1) 13%, rgba(135, 171, 133, 
 .gap{
     height: 15px;
     width: 100px;;
+
 }

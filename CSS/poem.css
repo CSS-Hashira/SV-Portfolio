@@ -42,7 +42,7 @@ background: linear-gradient(67deg, rgba(2, 0, 36, 1) 0%, rgba(59, 59, 140, 0.87)
 background: linear-gradient(67deg, rgba(53, 77, 53, 1) 13%, rgba(135, 171, 133, 0.89) 43%, rgba(205, 145, 71, 0.7) 80%);
 }
 .poem-background-shell2{
-    background: url(/poem-background/responsibility.png)
+    background: url(poem-background/responsibility.png)
 }
 .poem2{
     background: rgba(255, 166, 0, 0.532);
@@ -75,5 +75,6 @@ background: linear-gradient(67deg, rgba(53, 77, 53, 1) 13%, rgba(135, 171, 133, 
     width: 100px;;
 
 }
+
 
 

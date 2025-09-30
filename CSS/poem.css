@@ -29,7 +29,6 @@ background: linear-gradient(67deg, rgba(2, 0, 36, 1) 0%, rgba(59, 59, 140, 0.87)
     align-items: center;
      height: 90%;
     width: 80%;
-     font-size: 25px;
 }
 .poem1{
     background: rgba(0, 60, 255, 0.425);
@@ -76,3 +75,4 @@ background: linear-gradient(67deg, rgba(53, 77, 53, 1) 13%, rgba(135, 171, 133, 
     width: 100px;;
 
 }
+

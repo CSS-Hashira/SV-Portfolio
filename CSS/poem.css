@@ -12,7 +12,7 @@ background: linear-gradient(67deg, rgba(2, 0, 36, 1) 0%, rgba(59, 59, 140, 0.87)
     border: 2px solid black;
 }
 .poem-background-shell1{ 
-    background: url(/poem-background/poem1_background.png);
+    background: url(poem-background/poem1_background.png);
     background-position: center; 
 }
 .poem-background-shell{
@@ -75,4 +75,5 @@ background: linear-gradient(67deg, rgba(53, 77, 53, 1) 13%, rgba(135, 171, 133, 
     width: 100px;;
 
 }
+
 
